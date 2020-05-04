@@ -1,0 +1,12 @@
+name: diamond-price-prediction
+title: diamond-price-prediction
+username:
+account: jh668
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2235743
+bundleId: 3098874
+url: https://jh668.shinyapps.io/diamond-price-prediction/
+when: 1588551735.30876
+asMultiple: FALSE
+asStatic: FALSE
